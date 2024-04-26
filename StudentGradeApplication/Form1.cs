@@ -39,8 +39,10 @@ namespace StudentGradeApplication
             label2.Text = "The general average of " + name + " is " + average + ".";
         }
 
+        private void label1_Click(object sender, EventArgs e)
+        {
         
-
+        }
         }
     }
 }
